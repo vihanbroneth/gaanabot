@@ -21,10 +21,10 @@ songdata_file_path = database_path + 'songdata.json'
 searchdata_file_path = database_path + 'searchdata.json'
 
 #Telegram bot token ID
-TOKEN = '###############################################'
+TOKEN = '5257184670:AAGIymK9UMWc6GYI6mPTmgeZUuyw6TQmI5I'
 
 #Base url for fetching json object 
-BASE_URL = 'http://www.youtubeinmp3.com/fetch/?format=JSON&video='
+BASE_URL = 'mongodb+srv://vihannethmira:<password>@cluster0.bc8zs.mongodb.net/myFirstDatabase?retryWrites=true&w=majority'
 
 #Keywords
 SUCCESS = 'Success'
